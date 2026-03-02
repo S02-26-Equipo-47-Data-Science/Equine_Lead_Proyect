@@ -17,11 +17,11 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 │   │   ├── sessions.parquet
 │   │   ├── users.parquet
 │   │   ├── datos_merge_users_sessions.csv
-│   │   ├── input_lead_preuba_masiva
+│   │   ├── input_lead_preuba_masiva.csv
 │   │   └── README.md
 │   │
 │   └── 📁 processed
-│       ├── dataset_completo
+│       ├── dataset_completo.csv
 │       └── README.md
 │
 ├── 📁 models
@@ -29,7 +29,7 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 │   ├── scaler_clustering.joblib
 │   ├── rf_cutomer_valio_full.joblib
 │   ├── rf_prospecting_behavioral.joblib
-│   ├── label_encoder_segments
+│   ├── label_encoder_segments.joblib
 │   └── README.MD
 │   
 │
