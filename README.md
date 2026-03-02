@@ -3,11 +3,13 @@
 Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes potenciales en el sector ecuestre. 
 
 ---
-## 🎯 Target
+## 🎯 Objetivo
 ---
-## 🔧 tools_technologies
+## 🔧 herramientas y tecnologías
 ---
 ## 🗃️ structure_proyect
+
+
 📦 Equinde_lead
 │
 ├── 📁 data
