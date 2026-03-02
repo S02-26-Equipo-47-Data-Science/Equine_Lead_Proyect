@@ -67,6 +67,17 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 ## 🧠Feature Engineering
 ---
 ## 🤖 Entrenamiento y evaluación de modelos
+
+              precision    recall  f1-score   support
+
+    Caliente       0.94      0.99      0.96       750
+        Frío       0.97      0.91      0.94       750
+  Prometedor       0.96      0.83      0.89       750
+       Tibio       0.83      0.96      0.89       750
+
+    accuracy                           0.92      3000
+   macro avg       0.93      0.92      0.92      3000
+weighted avg       0.93      0.92      0.92      3000
 ---
 ## 🚀 Deploy del proyecto
 ---
