@@ -8,7 +8,7 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 ## 🔧 herramientas y tecnologías
 ---
 ## 🗃️ structure_proyect
-
+```
 
 📦 Equinde_lead
 │
@@ -58,7 +58,7 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 ├── rf_cutomer.joblib
 └── scaler_clustering.joblib
 
-
+```
 
 ---
 # Resumen del proyecto
