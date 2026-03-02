@@ -7,8 +7,6 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 Automatizar la calificación y segmentación de prospectos en tiempo real para transformar datos de navegación en oportunidades de venta accionables.
 
 ---
-## 🔧 herramientas y tecnologías
----
 ## 🗃️ structure_proyect
 ```
 
