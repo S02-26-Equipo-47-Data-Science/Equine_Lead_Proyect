@@ -59,9 +59,6 @@ Estrategia Dual: Random Forest y K-Means para detectar y capturar clientes poten
 └── scaler_clustering.joblib
 
 ```
-
----
-# Resumen del proyecto
 ---
 ## 💻Generación de dataset sintético
 ---
